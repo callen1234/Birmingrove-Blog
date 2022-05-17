@@ -1,0 +1,9 @@
+body{
+  background-color: white;
+  background-image: url("../image/maxresdefault.jpg");
+  min-height: 100vh;
+  color: white;
+  display: grid;
+  place-items: 100vh, 200vh;
+  line-height: 2;
+}
